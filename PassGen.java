@@ -134,7 +134,7 @@ class services {
 }
 
 
-public class pg2 {
+public class PassGen {
     public static void main(String[] args) {
 
         while(true) {

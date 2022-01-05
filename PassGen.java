@@ -189,10 +189,10 @@ public class PassGen {
                     help_user.help();
                     break;
                 case "exit":
-                    System.out.println("Exiting application...");
+                    System.out.println("\nExiting application...");
                     return;
                 case "EXIT":
-                    System.out.println("Exiting Application...");
+                    System.out.println("\nExiting Application...");
                     return;
                 default:
                     System.out.println("Wrong input !!\n");

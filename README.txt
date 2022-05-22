@@ -24,4 +24,4 @@ Usage of PassGen:-
        3. Enter 'exit' to exit the application.
 
         
-** If you have any suggestions then feel free to mail me on: shubhapratimbiswas@gmail.com
+** If you have any suggestions then feel free to mail me on: shubhapratimbiswas@gmail.com 

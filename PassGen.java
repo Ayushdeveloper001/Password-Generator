@@ -145,7 +145,7 @@ public class PassGen {
             System.out.println("(::::::::::::::::::Press c to continue to the application::::::::::::::::::)");
             System.out.println("(::::::::::::::::::Enter help to learn how it works      ::::::::::::::::::)");
             System.out.println("(::::::::::::::::::Press exit to exit the application    ::::::::::::::::::)");
-            System.out.println("(:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-by FantoX:::)");
+            System.out.println("(:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-by Ayush:::)");
             Scanner input = new Scanner(System.in);
             String user_input = input.nextLine();
             String help = "help";
